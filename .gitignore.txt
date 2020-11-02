@@ -1,0 +1,5 @@
+/Logs**
+/unused
+/Script/CONFIG.py
+/.vscode
+/.__pycache__
