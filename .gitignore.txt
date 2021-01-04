@@ -3,6 +3,3 @@
 /Script/CONFIG.py
 /.vscode
 /.__pycache__
-/.Script/__pycache__/
-__pycache__/
-*.Trade_Algorithm.py
