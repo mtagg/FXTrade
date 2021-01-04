@@ -67,9 +67,9 @@ while dailyGain > CONFIG.DAILY_MAX_LOSS:
                                    dailySpent, ema1, ema2, ema3)
           if SAFETYSTOP == True:
                break
-     except:
+     except Exception as e:
           print("Error Accessing API")
-
+          print(e)
      count += 1
      time.sleep(60)
 

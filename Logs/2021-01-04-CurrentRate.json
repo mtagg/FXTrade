@@ -1,0 +1,85 @@
+{
+    "date-time": "2021-01-04 12:38:51.419623",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22487000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22486234",
+    "9. Ask Price": "1.22490191"
+}{
+    "date-time": "2021-01-04 12:39:52.236266",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22494000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22492071",
+    "9. Ask Price": "1.22497142"
+}{
+    "date-time": "2021-01-04 12:40:54.837990",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22489000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22485932",
+    "9. Ask Price": "1.22489643"
+}{
+    "date-time": "2021-01-04 12:43:07.037981",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22497000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22492884",
+    "9. Ask Price": "1.22498690"
+}{
+    "date-time": "2021-01-04 12:44:10.723648",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22505000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22501809",
+    "9. Ask Price": "1.22505766"
+}{
+    "date-time": "2021-01-04 12:45:13.689267",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22500000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22496552",
+    "9. Ask Price": "1.22502236"
+}{
+    "date-time": "2021-01-04 12:46:17.724184",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22492000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22487719",
+    "9. Ask Price": "1.22498100"
+}{
+    "date-time": "2021-01-04 12:47:20.496911",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22502000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22500524",
+    "9. Ask Price": "1.22502870"
+}{
+    "date-time": "2021-01-04 12:48:23.966698",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22500000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22496435",
+    "9. Ask Price": "1.22501746"
+}{
+    "date-time": "2021-01-04 12:49:27.957128",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22501000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22498317",
+    "9. Ask Price": "1.22506108"
+}{
+    "date-time": "2021-01-04 12:50:33.433346",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22490000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22489136",
+    "9. Ask Price": "1.22490864"
+}{
+    "date-time": "2021-01-04 12:51:37.455128",
+    "3. To_Currency Code": "USD",
+    "5. Exchange Rate": "1.22488000",
+    "1. From_Currency Code": "EUR",
+    "8. Bid Price": "1.22485060",
+    "9. Ask Price": "1.22488514"
+}
